@@ -38,8 +38,3 @@ csv File Size    : 2.7MB
 - customer_value_total_ever_online  :  Total fees paid for the customer's online purchases
 
 - interested_in_categories_12       : List of categories the customer has shopped in the last 12 months
-
-
-
-
-
