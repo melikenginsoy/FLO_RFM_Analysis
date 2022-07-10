@@ -1,3 +1,5 @@
+![FLO](https://user-images.githubusercontent.com/108836307/178139689-26d8f288-9e66-4444-9ac3-420ee8f0432f.png) 
+
 # Customer Segmentation with RFM
 
 
